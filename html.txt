@@ -1,0 +1,66 @@
+./backup/git/takehome/css/placeholder.html
+./backup/git/takehome/img/placeholder.html
+./backup/git/takehome/index1.html
+./backup/git/takehome/js/placeholder.html
+./blah/done/idu midterm done/coding pic/restaurant.html
+./blah/done/idu midterm done/GreatNorth/1.html
+./blah/done/idu midterm done/GreatNorth/2.html
+./blah/done/idu midterm done/GreatNorth/3.html
+./blah/done/idu midterm done/GreatNorth/AboutUs.html
+./blah/done/idu midterm done/GreatNorth/Gallery.html
+./blah/done/idu midterm done/GreatNorth/GreatNorth/AboutUs.html
+./blah/done/idu midterm done/GreatNorth/GreatNorth/Gallery.html
+./blah/done/idu midterm done/GreatNorth/GreatNorth/Home.html
+./blah/done/idu midterm done/GreatNorth/GreatNorth/Menu.html
+./blah/done/idu midterm done/GreatNorth/GreatNorth/menulist.html
+./blah/done/idu midterm done/GreatNorth/GreatNorth/newslist.html
+./blah/done/idu midterm done/GreatNorth/GreatNorth/Reservation.html
+./blah/done/idu midterm done/GreatNorth/GreatNorth/Review.html
+./blah/done/idu midterm done/GreatNorth/GreatNorth/write.html
+./blah/done/idu midterm done/GreatNorth/Home.html
+./blah/done/idu midterm done/GreatNorth/iframe/app.html
+./blah/done/idu midterm done/GreatNorth/iframe/chef.html
+./blah/done/idu midterm done/GreatNorth/iframe/meat.html
+./blah/done/idu midterm done/GreatNorth/iframe/newslist.html
+./blah/done/idu midterm done/GreatNorth/iframe/seafood.html
+./blah/done/idu midterm done/GreatNorth/iframe/soup.html
+./blah/done/idu midterm done/GreatNorth/Menu.html
+./blah/done/idu midterm done/GreatNorth/menulist.html
+./blah/done/idu midterm done/GreatNorth/Reservation.html
+./blah/done/idu midterm done/GreatNorth/Review.html
+./blah/done/idu midterm done/GreatNorth/write.html
+./blah/done/idu midterm done/week_02/canvas1-example.html
+./blah/done/idu midterm done/week_02/canvas2-example.html
+./blah/done/idu midterm done/week_02/div-and-span.html
+./blah/done/idu midterm done/week_02/forms-validation.html
+./blah/done/idu midterm done/week_02/forms.html
+./blah/done/idu midterm done/week_02/iframe.html
+./blah/done/idu midterm done/week_02/images.html
+./blah/done/idu midterm done/week_02/semantic-elements.html
+./blah/done/idu midterm done/week_02/tables.html
+./blah/lab 8/test.html
+./blah/WEB TECH LAB WORKINNNNNNNNNNNG/lab7.html
+./blah/WEB TECH LAB WORKINNNNNNNNNNNG/week_07/centering/centering-things.html
+./blah/WEB TECH LAB WORKINNNNNNNNNNNG/week_07/image-alignment.html
+./blah/WEB TECH LAB WORKINNNNNNNNNNNG/week_07/liquid/basic-float-layout.html
+./blah/WEB TECH LAB WORKINNNNNNNNNNNG/week_07/liquid/final_right.html
+./blah/WEB TECH LAB WORKINNNNNNNNNNNG/week_07/liquid/float-and-clear-example.html
+./blah/WEB TECH LAB WORKINNNNNNNNNNNG/week_07/liquid/image-gallery.html
+./blah/WEB TECH LAB WORKINNNNNNNNNNNG/week_07/liquid/navbar-centered.html
+./git/takehome/css/placeholder.html
+./git/takehome/img/placeholder.html
+./git/takehome/index1.html
+./git/takehome/js/placeholder.html
+./GreatNorth/AboutUs.html
+./GreatNorth/beverage.html
+./GreatNorth/chef's_special.html
+./GreatNorth/Feedback.html
+./GreatNorth/Feedback1.html
+./GreatNorth/Feedback2.html
+./GreatNorth/Home.html
+./GreatNorth/lunch.html
+./GreatNorth/Menu.html
+./GreatNorth/noodles.html
+./GreatNorth/Reservation.html
+./GreatNorth/Reservation1.html
+./GreatNorth/salad.html
